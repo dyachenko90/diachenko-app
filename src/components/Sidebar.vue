@@ -3,27 +3,27 @@
     <ul>
       <li>
         <img src="../assets/img/politic.png" alt="Политика">
-        <a href="/">Политика</a>
+        <a @click="$router.push('/cont')">Политика</a>
       </li>
       <li>
         <img src="../assets/img/economic.png" alt="Экономика">
-        <a href="/">Экономика</a>
+        <a @click="$router.push('/cont')">Экономика</a>
       </li>
       <li>
         <img src="../assets/img/sport.png" alt="Спорт">
-        <a href="/">Спорт</a>
+        <a @click="$router.push('/cont')">Спорт</a>
       </li>
       <li>
         <img src="../assets/img/science.png" alt="Наука">
-        <a href="/">Наука</a>
+        <a @click="$router.push('/cont')">Наука</a>
       </li>
       <li>
         <img src="../assets/img/health.png" alt="Здоровье">
-        <a href="/">Здоровье</a>
+        <a @click="$router.push('/cont')">Здоровье</a>
       </li>
       <li>
         <img src="../assets/img/technologies.png" alt="Технологии">
-        <a href="/">Технологии</a>
+        <a @click="$router.push('/cont')">Технологии</a>
       </li>
     </ul>
   </div>
@@ -55,6 +55,7 @@ li {
   margin-top: 15px;
 }
 li a {
+  cursor: pointer;
   margin-left: 15px;
   text-decoration: none;
   font-size: 24px;

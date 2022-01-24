@@ -13,42 +13,6 @@
             <img src="../assets/img/news-content.jpg" alt="Новость">
             <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
         </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
-        <div class="card-news">
-            <img src="../assets/img/news-content.jpg" alt="Новость">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi vel, doloremque quam doloribus nulla impedit quis hic optio modi dicta rem laboriosam nemo. Dolor ratione iste, cum deleniti quae sint.</div>
-        </div>
     </div>
 </template>
 

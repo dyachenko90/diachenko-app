@@ -16,7 +16,12 @@ const routes = [
     path: '/reg',
     name: 'Registration',
     component: () => import('../views/Registration.vue')
-  }
+  },
+  {
+    path: '/cont',
+    name: 'Contentside',
+    component: () => import('../components/Contentside.vue')
+  },
 ]
 
 const router = createRouter({
